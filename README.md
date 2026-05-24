@@ -35,6 +35,40 @@ In this lab I practiced:
 
 ---
 
+### 3. Interconnecting Two Networks Using Router
+
+## Overview
+This lab demonstrates communication between two different networks using a router and switches in Cisco Packet Tracer.
+
+## Network 1
+- PC0 – 198.168.1.2
+- Laptop0 – 198.168.1.3
+- Server0 – 198.168.1.4
+- Default Gateway – 198.168.1.1
+
+## Network 2
+- PC1 – 198.168.2.5
+- Laptop1 – 198.168.2.6
+- Server1 – 198.168.2.7
+- Default Gateway – 198.168.2.1
+
+## Devices Used
+- 1 Router
+- 2 Switches
+- PCs
+- Laptops
+- Servers
+
+## Concepts Practiced
+- IP Addressing
+- Default Gateway Configuration
+- Router Interface Configuration
+- Inter-network Communication
+- Ping Testing
+- Basic Network Topology Design
+
+## Result
+Successfully tested connectivity between devices across both networks using ping commands.
 ## Goal
 
 To build practical networking skills through hands-on labs using Cisco Packet Tracer while improving my knowledge of networking, routing, switching, and CCNA concepts.
