@@ -69,6 +69,71 @@ This lab demonstrates communication between two different networks using a route
 
 ## Result
 Successfully tested connectivity between devices across both networks using ping commands.
+
+### 4. CCNA Subnetting Practice – FLSM and VLSM
+
+This repository contains my subnetting practice work while learning Computer Networking and preparing for CCNA.
+
+## Topics Covered
+
+- IPv4 Addressing
+- Subnetting
+- FLSM (Fixed Length Subnet Mask)
+- VLSM (Variable Length Subnet Mask)
+- Network Address
+- Broadcast Address
+- Host Range Calculation
+
+## Practice Files
+
+This repository includes solved subnetting examples and practice problems covering:
+- FLSM subnetting
+- VLSM subnetting
+- subnet mask calculation
+- host calculation
+- network and broadcast address identification
+
+The solved examples are available in the uploaded subnetting practice file.
+
+### 5. Telnet Configuration on Cisco Switch
+
+This lab demonstrates basic Telnet configuration on a Cisco switch using Cisco Packet Tracer.
+
+## Overview
+Configured remote access to the switch using Telnet from a PC in the same network.
+
+## Devices Used
+- 1 Cisco 2960 Switch
+- 1 PC
+
+## Configuration Practiced
+- Assigning management IP address to VLAN interface
+- Setting default gateway
+- Configuring VTY lines
+- Setting Telnet password
+- Enabling login access
+- Remote login from PC Command Prompt using Telnet
+
+## Verification
+Tested connectivity using:
+- `ping 192.168.1.100`
+
+Verified remote access using:
+- `telnet 192.168.1.100`
+
+Successfully logged into the switch remotely from the PC and accessed CLI through Telnet.
+
+## Skills Practiced
+- Telnet
+- Remote Device Access
+- VTY Line Configuration
+- Basic Switch Configuration
+- CLI Verification
+- Connectivity Testing
+
+## Files Included
+- telnet.pkt
+- Telnet configuration commands
 ## Goal
 
 To build practical networking skills through hands-on labs using Cisco Packet Tracer while improving my knowledge of networking, routing, switching, and CCNA concepts.
