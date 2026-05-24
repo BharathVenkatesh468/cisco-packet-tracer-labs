@@ -1,0 +1,30 @@
+# FLSM Example
+
+Network: 192.168.10.0/24
+
+Required Subnets: 4
+
+Subnet Mask: /26
+
+Subnets:
+192.168.10.0/26
+192.168.10.64/26
+192.168.10.128/26
+192.168.10.192/26
+
+Hosts per subnet: 62
+
+
+# VLSM Example
+
+Network: 192.168.1.0/24
+
+Requirements:
+LAN 1 → 100 hosts
+LAN 2 → 50 hosts
+LAN 3 → 25 hosts
+
+Allocated:
+192.168.1.0/25
+192.168.1.128/26
+192.168.1.192/27
